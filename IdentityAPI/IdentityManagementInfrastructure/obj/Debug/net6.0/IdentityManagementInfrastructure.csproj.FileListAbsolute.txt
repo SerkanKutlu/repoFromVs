@@ -1,0 +1,14 @@
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\bin\Debug\net6.0\IdentityManagementInfrastructure.deps.json
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\bin\Debug\net6.0\IdentityManagementInfrastructure.runtimeconfig.json
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\bin\Debug\net6.0\IdentityManagementInfrastructure.dll
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\bin\Debug\net6.0\IdentityManagementInfrastructure.pdb
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\IdentityManagementInfrastructure.csproj.AssemblyReference.cache
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\IdentityManagementInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\IdentityManagementInfrastructure.AssemblyInfoInputs.cache
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\IdentityManagementInfrastructure.AssemblyInfo.cs
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\IdentityManagementInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\IdentityManagementInfrastructure.dll
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\refint\IdentityManagementInfrastructure.dll
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\IdentityManagementInfrastructure.pdb
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\IdentityManagementInfrastructure.genruntimeconfig.cache
+C:\Users\kutlu\Desktop\WORK\DAVID CRAWFORD\IdentityAPI\IdentityManagementInfrastructure\obj\Debug\net6.0\ref\IdentityManagementInfrastructure.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "72XzOw7IWhDnD/J2C0Vb9cmxysLTKSKhsxXbHBxprgU=",
+  "Source": "Identity.Server",
+  "BasePath": "_content/Identity.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

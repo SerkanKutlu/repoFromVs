@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xrqtJe7pVEEjYQg/TxjQVmNXgVSTGElPFpyeNWKjbVw=",
+  "Source": "IdentityManagementServer",
+  "BasePath": "_content/IdentityManagementServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
